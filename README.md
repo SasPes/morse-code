@@ -1,5 +1,5 @@
 # Morse Code
-... .- ... .--. . ...  
+-- --- .-. ... . / -.-. --- -.. . / -... -.-- / ... .- ... .--. . ...
 
 <img src="ss/MorseCodeTrainerCardPro1.png" alt="Morse Code Trainer Card Pro" width="50%" />  
 
