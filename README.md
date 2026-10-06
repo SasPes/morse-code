@@ -1,7 +1,18 @@
 # Morse Code
 -- --- .-. ... . / -.-. --- -.. . / -... -.-- / ... .- ... .--. . ...
 
-<img src="ss/MorseCodeTrainerCardPro1.png" alt="Morse Code Trainer Card Pro" width="50%" />  
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="ss/MorseCodeTrainerCardPro1.png" width="82%" alt="Morse Code Trainer Card Pro">
+    </td>
+    <td width="50%" valign="top">
+      <img src="ss/ss1.png" width="100%" alt="Screenshot 1">
+      <br><br>
+      <img src="ss/ss2.png" width="100%" alt="Screenshot 2">
+    </td>
+  </tr>
+</table>
 
 A compact Bruce app for learning and exploring the Morse code alphabet through a visual, interactive grid.
 
